@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "@butility/dom": "^1.0.1",
+    "@butility/media": "^1.0.2",
+    "@butility/style": "^1.0.4"
+  }
+}
