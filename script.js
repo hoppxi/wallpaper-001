@@ -1,5 +1,5 @@
-import network from "@butility/network";
-import { setAttribute } from "@butility/dom";
+import network from "./@butility/request.js";
+import { setAttribute } from "./@butility/attribute.js";
 
 const foreBtn = document.querySelector("button.icon.fore");
 const backBtn = document.querySelector("button.icon.back");
